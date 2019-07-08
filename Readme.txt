@@ -10,7 +10,7 @@ _ Installations nécessaires
 	
 	+ Google Chrome :
 
-		- Si vous ne l'avez pas déjà, installez Mozilla sur le lien suivant : https://www.google.fr/chrome/
+		- Si vous ne l'avez pas déjà, installez Google Chrome sur le lien suivant : https://www.google.fr/chrome/
 
 
 
