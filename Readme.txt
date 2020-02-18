@@ -27,7 +27,7 @@ _ Pour installez le projet de scrapping :
 
 	+ Sur Windows :
 
-		- Ouvrir l'expolorateur de fichiers, allez sur le dossier "myScrapp" (sans cliquer dessus, il faut juste que le dossier soit surligné).
+		- Ouvrir l'expolorateur de fichiers, allez sur le dossier "Scrapping_Legifrance" (sans cliquer dessus, il faut juste que le dossier soit surligné).
 		- Dans l'explorateur de fichiers, cliquez sur "acceuil" puis "copier le chemin d'accès"
 		- En bas à gauche de l'écran, à côté du menu démarrer, dans la barre de recherche, incrivez "invite de commande" puis cliquez sur l'application "invite de commande",
 		- Une fois que celle-ci est ouverte, écrivez "cd" tapez sur la barre espace puis tapez simultanément sur les touches "Ctrl" et "V".
