@@ -45,4 +45,4 @@ _ Pour installez le projet de scrapping :
 		
 _ Bug possibles : 
 
-	+ Attention , ce programme ne fonctionne qu'avec la dernière version de chrome (la version 75), si un bug arrive au moment du lancement du programme (après avoir tapé "dotnet run" veuillez vérifier que vous avez la bonne version de chrome en mettant à jour ce dernier). Pour plus d'informations sur les modalités de mise à jour de chrome consultez ce lien : https://fr.wikihow.com/mettre-%C3%A0-jour-Google-Chrome
+	+ Attention , ce programme ne fonctionne qu'avec la dernière version de chrome (la version 80), si un bug arrive au moment du lancement du programme (après avoir tapé "dotnet run" veuillez vérifier que vous avez la bonne version de chrome en mettant à jour ce dernier). Pour plus d'informations sur les modalités de mise à jour de chrome consultez ce lien : https://fr.wikihow.com/mettre-%C3%A0-jour-Google-Chrome
