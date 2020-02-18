@@ -4,7 +4,7 @@ Voici les étapes à suivre pour installer ce projet de scrapping du site Légif
 
 _ Installations nécessaires
 
-	+ .NET Core 2.2 :
+	+ .NET Core :
 
 		- Sur l'adresse https://dotnet.microsoft.com/download, téléchargez puis installez .NET Core SDK.
 	
