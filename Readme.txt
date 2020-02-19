@@ -17,7 +17,7 @@ _ Installations nécessaires
 _ Pour Télécharger le programme de scrapping :
 		
 
-	+ Allez sur https://github.com/JulienRollinat/Scrapping_Legifrance/blob/master/myScrapp.zip, cliquez sur "download",
+	+ Allez sur https://github.com/JulienRollinat/Scrapping_Legifrance/blob/master/Scrapping_Legifrance.zip, cliquez sur "download",
 
 	+ Une fois le dossier téléchargé, dézippez-le.
 
@@ -41,7 +41,7 @@ _ Pour installez le projet de scrapping :
 		- Une fois que le terminal est ouvert écrivez "dotnet run".
 		- Le programme est lancé !
 		
-	+ Pour lancer la génération de graphiques, ouvrir le terminal, se déplacer dans le dossier myScrapp du programme puis lancer la terminal "Python3 to_launch_for_Graphics.py"
+	+ Pour lancer la génération de graphiques (vérifier d'avoir installer Python3 sur votre ordinateur https://www.python.org/download/releases/3.0/, ouvrir le terminal, se déplacer dans le dossier Scrapping_Legifrance du programme puis lancer la commande "python3 -m pip install matplotlib" puis "Python3 to_launch_for_Graphics.py"
 		
 _ Bug possibles : 
 
