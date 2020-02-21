@@ -36,7 +36,7 @@ _ Pour installez le projet de scrapping :
 
 	+ Sur Mac :
 
-		- Ouvrir le finder, selectionner le dossier "myScrapp" (sans cliquer dessus, il faut juste que le dossier soit surligné) puis cliquer sur l'onglet de roue mécanique en haut à droite du finder enfin selectionner "ouvrir un nouveau terminal". 
+		- Ouvrir le finder, selectionner le dossier "Scrapping_Legifrance" (sans cliquer dessus, il faut juste que le dossier soit surligné) puis cliquer sur l'onglet de roue mécanique en haut à droite du finder enfin selectionner "ouvrir un nouveau terminal". 
 		- Si vous êtes perdu, plus d'informations ici (https://yann.me/mac-ouvrir-un-dossier-dans-le-terminal-depuis-finder/),
 		- Une fois que le terminal est ouvert écrivez "dotnet run".
 		- Le programme est lancé !
