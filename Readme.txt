@@ -41,7 +41,7 @@ _ Pour installez le projet de scrapping :
 		- Une fois que le terminal est ouvert écrivez "dotnet run".
 		- Le programme est lancé !
 		
-	+ Pour lancer la génération de graphiques (vérifier d'avoir installer Python3 sur votre ordinateur https://www.python.org/download/releases/3.0/), ouvrir le terminal, se déplacer dans le dossier "Scrapping_Legifrance" du programme puis lancer la commande "Python3 -m pip install matplotlib && Python -m pip install matplotlib" puis "Python3 to_launch_for_Graphics.py && Python to_launch_for_Graphics.py". Vos dossiers sont accessibles dans le dossier "Graphiques" (sous-dossier de "Scrapping_Legifrance"). 
+	+ Pour lancer la génération de graphiques (vérifier d'avoir installer Python3 sur votre ordinateur https://www.python.org/downloads/), ouvrir le terminal, se déplacer dans le dossier "Scrapping_Legifrance" du programme puis lancer la commande "Python3 -m pip install matplotlib && Python -m pip install matplotlib" puis "Python3 to_launch_for_Graphics.py && Python to_launch_for_Graphics.py". Vos dossiers sont accessibles dans le dossier "Graphiques" (sous-dossier de "Scrapping_Legifrance"). 
 		
 _ Bug possibles : 
 
